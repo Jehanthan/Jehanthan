@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jehanthan
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 🌱 I’m currently working on the Odin Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
