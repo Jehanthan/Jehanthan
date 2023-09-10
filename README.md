@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Jehanthan
-- 🌱 I’m currently working on the Odin Project.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @Jay
+- I’m currently a Computer Engineering Technology student in my third semester.
+- I know C and a bit of python and currently studying C++, HTML, CSS, and JavaScript.
 
-<!---
-Jehanthan/Jehanthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
