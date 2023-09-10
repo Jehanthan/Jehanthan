@@ -1,5 +1,5 @@
 - Hi, I’m @Jay
 - I’m currently a Computer Engineering Technology student in my third semester.
-- I know C and a bit of python and currently studying C++, HTML, CSS, and JavaScript.
+- I have experience coding with C and Python and I am currently learning C++ through school and HTML, CSS, and JavaScript via freeCodeCamp.
 
 
